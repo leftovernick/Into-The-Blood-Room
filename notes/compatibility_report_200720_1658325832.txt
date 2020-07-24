@@ -1,0 +1,5 @@
+Added compatibility script 'background/background_get_texture.gml'
+Added compatibility script 'background/draw_background_tiled_ext.gml'
+Added compatibility script 'texture/texture_set_repeat_ext.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'

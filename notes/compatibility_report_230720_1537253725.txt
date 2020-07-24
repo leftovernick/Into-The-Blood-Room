@@ -1,0 +1,50 @@
+Converting GML script: ${project_dir}/scripts/animate_sprites/animate_sprites.gml
+Converted description /// @description animate_sprites(speed);/// @param speed
+
+Converting GML script: ${project_dir}/scripts/ef_bubbly/ef_bubbly.gml
+Converted description /// @description ef_bubbly();
+
+Converting GML script: ${project_dir}/scripts/ef_flimsy/ef_flimsy.gml
+Converted description /// @description ef_flimsy();
+
+Converting GML script: ${project_dir}/scripts/ef_speedy/ef_speedy.gml
+Converted description /// @description ef_speedy();
+
+Converting GML script: ${project_dir}/scripts/edgess_init_splash/edgess_init_splash.gml
+Converted description /// @description edgess_init_splash();
+
+Converting GML script: ${project_dir}/scripts/edgess_draw_splash/edgess_draw_splash.gml
+Converted description /// @description edgess_draw_splash(sprite, fade in, pause, fade out, hide mouse);/// @param sprite
+/// @param  fade in
+/// @param  pause
+/// @param  fade out
+/// @param  hide mouse
+
+Converting GML script: ${project_dir}/scripts/edgess_draw_splash_ext/edgess_draw_splash_ext.gml
+Converted description /// @description edgess_draw_splash_ext(sprite, fade in, pause, fade out, image_index, xoffset, yoffset, xscale, yscale, rotation, hide mouse);/// @param sprite
+/// @param  fade in
+/// @param  pause
+/// @param  fade out
+/// @param  image_index
+/// @param  xoffset
+/// @param  yoffset
+/// @param  xscale
+/// @param  yscale
+/// @param  rotation
+/// @param  hide mouse
+
+Converting GML script: ${project_dir}/scripts/edgess_splash_effect/edgess_splash_effect.gml
+Converted description /// @description edgess_splash_effect(effect);/// @param effect
+
+Converting GML script: ${project_dir}/scripts/edgess_end_splash/edgess_end_splash.gml
+Converted description /// @description edgess_end_splash(event_type, event_number);/// @param event_type
+/// @param  event_number
+
+Converting GML script: ${project_dir}/scripts/edgess_skip/edgess_skip.gml
+Converted description /// @description edgess_skip(mode);/// @param mode
+
+Converting GML script: ${project_dir}/objects/obj_splash/Create_0.gml
+Converted description /// @description Execute script: edgess_init_splash
+
+Added compatibility script 'action/action_current_room.gml'
+Added compatibility script 'action/__init_action.gml'

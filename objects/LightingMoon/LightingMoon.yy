@@ -1,0 +1,81 @@
+{
+    "id": "05a4ea05-45fb-43d7-bedd-e01beda87c1a",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "LightingMoon",
+    "eventList": [
+        {
+            "id": "21d29d4b-a2db-4212-8b9d-2bb0b196036f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "05a4ea05-45fb-43d7-bedd-e01beda87c1a"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "26d8b4fa-b5bf-44b4-8704-adc04e6ea26d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "$FFFFFFFF",
+            "varName": "color",
+            "varType": 7
+        },
+        {
+            "id": "f81ca144-f3b3-4af4-85e2-27f3678c9563",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": true,
+            "rangeMax": 1,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.1",
+            "varName": "intensity",
+            "varType": 0
+        },
+        {
+            "id": "63a37c70-e6cb-447a-bd0b-71d2004003b5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": true,
+            "rangeMax": 0.2,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "wobble",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "33dd487c-1626-4849-b1d5-6d458cc4c4b5",
+    "visible": false
+}

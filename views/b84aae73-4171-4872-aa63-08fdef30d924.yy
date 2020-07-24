@@ -1,0 +1,32 @@
+{
+    "id": "b84aae73-4171-4872-aa63-08fdef30d924",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "b84aae73-4171-4872-aa63-08fdef30d924",
+    "children": [
+        "6c42f1c1-dde9-4a30-b2ca-20d57e8c3797",
+        "a9d4e553-500d-4803-94d7-a38b5e8f6340",
+        "4771ea5f-7a95-41d4-adb6-7f12fec54e9b",
+        "d5c2afbb-a16d-4e02-9c01-adaa88b42718",
+        "6c2e0627-dabe-43b8-920f-424b5a2d5f5d",
+        "36fa86b5-acd0-47a2-9d2b-457f6d038f9f",
+        "0449fa50-f8d6-4dee-9916-7411b06cc1bf",
+        "4456bc11-c873-4cfb-8f34-d9e62a111a2b",
+        "213b0827-1048-432a-97ba-874b7f07c444",
+        "7b9afd40-565a-441e-a4b1-eea9cf16a229",
+        "99eff58d-69b3-44ae-a66d-59cecf6863b4",
+        "9b944640-0190-4fcc-a1a5-e73721c42906",
+        "e4ccf494-2199-4597-9676-4b46054b89ae",
+        "d42f6307-15c8-48c2-9f70-ed4476dd0468",
+        "2277778f-ab4a-476b-82f6-7d6ae3082fc9",
+        "2b43bc16-060d-4dad-9560-c7217676aa73",
+        "03744a15-c9a8-4a2c-aa9f-9f4939340e13",
+        "0985b330-817e-4c58-a85a-bfc6bda60024",
+        "0beed34b-b00d-4842-a60c-a866fbb4c685",
+        "7031c820-2fa8-4298-a299-cbc014a274c7"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Player",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
